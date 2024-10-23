@@ -11,13 +11,12 @@ With seven years of experience working at the local post office, I bring strong 
 - HTML, CSS, JavaScript
 - React
 - C#, ASP.NET, Blazor, .NET MAUI
-- 
 ## C# Projects
-Mobile Parking App with SQL: https://github.com/para2k/ParkolasApp
-Warehouse Manager Winforms App: https://github.com/para2k/Raktarkezelo
+- Mobile Parking App with SQL: https://github.com/para2k/ParkolasApp
+- Warehouse Manager Winforms App: https://github.com/para2k/Raktarkezelo
 
 ## API Practice Projects
-Color Scheme Generator: https://github.com/para2k/ColorSchemeGenerator
-Movie Watchlist: https://github.com/para2k/movies-watchlist-OMDbAPI
+- Color Scheme Generator: https://github.com/para2k/ColorSchemeGenerator
+- Movie Watchlist: https://github.com/para2k/movies-watchlist-OMDbAPI
 
 More coming soon :P
