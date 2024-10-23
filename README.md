@@ -10,7 +10,8 @@ With seven years of experience working at the local post office, I bring strong 
 ## Skills
 - HTML, CSS, JavaScript
 - React
-- C#, ASP.NET, Blazor, .NET MAUI
+- C#, Winforms, ASP.NET, Blazor, .NET MAUI
+- SQL (MySQL, MSSQL)
 ## C# Projects
 - Mobile Parking App with SQL: https://github.com/para2k/ParkolasApp
 - Warehouse Manager Winforms App: https://github.com/para2k/Raktarkezelo
