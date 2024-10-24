@@ -11,9 +11,16 @@ With seven years of experience working at the local post office, I bring strong 
 - Mobile Parking App with SQL: https://github.com/para2k/ParkolasApp
 - Warehouse Manager Winforms App: https://github.com/para2k/Raktarkezelo
 
-## API Practice Projects
+## Frontend Projects
+
+### API Practice Projects
 - Color Scheme Generator: https://github.com/para2k/ColorSchemeGenerator
 - Movie Watchlist: https://github.com/para2k/movies-watchlist-OMDbAPI
+
+### Responsive Design
+- CSS Responsive Grid: https://github.com/para2k/css-responsive-grid
+
+More coming soon :P
 
 ### Tech Stack
 
@@ -43,5 +50,3 @@ With seven years of experience working at the local post office, I bring strong 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
-
-More coming soon :P
