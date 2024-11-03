@@ -20,6 +20,9 @@ With seven years of experience working at the local post office, I bring strong 
 ### Responsive Design
 - CSS Responsive Grid: https://github.com/para2k/css-responsive-grid
 
+### React Projects
+- Trivia quizzical app: https://github.com/para2k/quizzical-react-app
+- Notes React App with Firebase: https://github.com/para2k/notes-app-with-firebase
 More coming soon :P
 
 ### Tech Stack
