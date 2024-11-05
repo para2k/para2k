@@ -22,7 +22,7 @@ With seven years of experience working at the local post office, I bring strong 
 
 ### React Projects
 - Trivia quizzical app: https://github.com/para2k/quizzical-react-app
-- Notes React App with Firebase: https://github.com/para2k/notes-app-with-firebase
+- Notes React App with Firebase: https://dancing-tanuki-f67f75.netlify.app/
 
 More coming soon :P
 
