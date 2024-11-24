@@ -14,7 +14,7 @@ With seven years of experience working at the local post office, I bring strong 
 ## Frontend Projects
 
 ### API Practice Projects
-- Color Scheme Generator: https://github.com/para2k/ColorSchemeGenerator
+- Color Scheme Generator: https://colorsschemegenerator.netlify.app/
 - Movie Watchlist: https://github.com/para2k/movies-watchlist-OMDbAPI
 
 ### Responsive Design
