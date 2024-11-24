@@ -14,8 +14,8 @@ With seven years of experience working at the local post office, I bring strong 
 ## Frontend Projects
 
 ### API Practice Projects
-- Color Scheme Generator:  <a href="https://github.com/para2k/ColorSchemeGenerator" target="_blank">Open</a>
-- Movie Watchlist: <a href="https://github.com/para2k/movies-watchlist-OMDbAPI" target="_blank">Open</a>
+- Color Scheme Generator: https://github.com/para2k/ColorSchemeGenerator
+- Movie Watchlist: https://github.com/para2k/movies-watchlist-OMDbAPI
 
 ### Responsive Design
 - CSS Responsive Grid: https://github.com/para2k/css-responsive-grid
