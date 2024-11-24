@@ -22,7 +22,7 @@ With seven years of experience working at the local post office, I bring strong 
 
 ### React Projects
 - Trivia quizzical app: https://gleeful-horse-86f32d.netlify.app/ & https://github.com/para2k/quizzical-react-app
-- Notes React App with Firebase: https://dancing-tanuki-f67f75.netlify.app/
+- Notes React App with Firebase: https://dancing-tanuki-f67f75.netlify.app/ & https://github.com/para2k/notes-app-with-firebase
 - Vans Life (Van Renting Site) with Firebase: https://dashing-alpaca-39c938.netlify.app/   ID: b@b.com password: p123
 
 More coming soon :P
