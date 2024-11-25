@@ -17,7 +17,7 @@ You can find most of my projects source code at my repos.
 
 ### API Practice Projects
 - Color Scheme Generator: https://colorsschemegenerator.netlify.app/
-- Movie Watchlist: https://github.com/para2k/movies-watchlist-OMDbAPI
+- Movie Watchlist: https://voluble-frangipane-ee154f.netlify.app/
 
 ### Responsive Design
 - CSS Responsive Grid: https://github.com/para2k/css-responsive-grid
