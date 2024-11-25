@@ -16,16 +16,16 @@ You can find most of my projects source code at my repos.
 ## Frontend Projects
 
 ### API Practice Projects
-- Color Scheme Generator: https://colorsschemegenerator.netlify.app/
-- Movie Watchlist: https://voluble-frangipane-ee154f.netlify.app/
+- Color Scheme Generator: [Open](https://colorsschemegenerator.netlify.app/)
+- Movie Watchlist: [Open](https://voluble-frangipane-ee154f.netlify.app/)
 
 ### Responsive Design
-- CSS Responsive Grid: https://github.com/para2k/css-responsive-grid
+- CSS Responsive Grid: [Open](https://learningjournalcssgrid.netlify.app/)
 
 ### React Projects
-- Trivia quizzical app: https://gleeful-horse-86f32d.netlify.app/
-- Notes React App with Firebase: https://dancing-tanuki-f67f75.netlify.app/ 
-- Vans Life (Van Renting Site) with Firebase: https://dashing-alpaca-39c938.netlify.app/   ID: b@b.com password: p123
+- Trivia quizzical app: [Open](https://gleeful-horse-86f32d.netlify.app/)
+- Notes React App with Firebase: [Open](https://dancing-tanuki-f67f75.netlify.app/)
+- Vans Life (Van Renting Site) with Firebase: [Open](https://dashing-alpaca-39c938.netlify.app/) -> ID: b@b.com password: p123
 
 More coming soon :P
 
