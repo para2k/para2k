@@ -7,6 +7,8 @@ As I dive deeper into React, I am actively building and uploading projects to sh
 
 With seven years of experience working at the local post office, I bring strong communication skills and a proven ability to work well under pressure. I am eager to contribute my knowledge and passion for frontend development to a collaborative team and create engaging user experiences.
 
+You can find most of my projects source code at my repos.
+
 ## C# Projects
 - Mobile Parking App with SQL: https://github.com/para2k/ParkolasApp
 - Warehouse Manager Winforms App: https://github.com/para2k/Raktarkezelo
@@ -21,8 +23,8 @@ With seven years of experience working at the local post office, I bring strong 
 - CSS Responsive Grid: https://github.com/para2k/css-responsive-grid
 
 ### React Projects
-- Trivia quizzical app: https://gleeful-horse-86f32d.netlify.app/ & https://github.com/para2k/quizzical-react-app
-- Notes React App with Firebase: https://dancing-tanuki-f67f75.netlify.app/ & https://github.com/para2k/notes-app-with-firebase
+- Trivia quizzical app: https://gleeful-horse-86f32d.netlify.app/
+- Notes React App with Firebase: https://dancing-tanuki-f67f75.netlify.app/ 
 - Vans Life (Van Renting Site) with Firebase: https://dashing-alpaca-39c938.netlify.app/   ID: b@b.com password: p123
 
 More coming soon :P
