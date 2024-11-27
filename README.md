@@ -17,7 +17,7 @@ You can find most of my projects source code at my repos.
 
 ### API Practice Projects
 - Color Scheme Generator: [Open](https://colorsschemegenerator.netlify.app/)
-- Movie Watchlist: [Open](https://voluble-frangipane-ee154f.netlify.app/)
+- Movie Watchlist: [Open](https://imdbmovieswatchlist.netlify.app/)
 
 ### Responsive Design
 - CSS Responsive Grid: [Open](https://learningjournalcssgrid.netlify.app/)
